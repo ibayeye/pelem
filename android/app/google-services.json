@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37837366849",
+    "project_id": "uas-kelompok3-ab415",
+    "storage_bucket": "uas-kelompok3-ab415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37837366849:android:5cb7b0d25b736a485688c0",
+        "android_client_info": {
+          "package_name": "com.example.uas_kelompok3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrdGPAH31rxDL5xcXHHGyJ0OeWW8TVAaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
